@@ -72,7 +72,7 @@ comment:
     changyan_thread_key_type: path
     # 使用 valine 请先执行 npm install valine --save
     valine: # Valine Comment System https://github.com/xCss/Valine
-       on: true
+       on: false
        appId: 'your appId'
        appKey: 'your appkey'
        notify: true

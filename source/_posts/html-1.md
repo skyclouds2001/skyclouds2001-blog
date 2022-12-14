@@ -2,10 +2,10 @@
 title: HTML-1
 date: 2022-07-27 18:54:10
 tags:
-- frontend
+- Frontend
 - HTML
 categories:
-- [frontend, HTML]
+- [Frontend, HTML]
 thumbnail: https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png
 ---
 

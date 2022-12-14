@@ -2,11 +2,11 @@
 title: jQuery
 date: 2022-08-14 22:55:26
 tags:
-- frontend
+- Frontend
 - JavaScript
 - Library
 categories:
-- [frontend, Library]
+- [Frontend, Library]
 thumbnail: https://logos-download.com/wp-content/uploads/2016/09/jQuery_logo.png
 ---
 

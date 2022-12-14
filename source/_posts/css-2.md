@@ -2,10 +2,10 @@
 title: CSS-2
 date: 2022-08-05 21:50:38
 tags:
-- frontend
+- Frontend
 - CSS
 categories:
-- [frontend, CSS]
+- [Frontend, CSS]
 thumbnail: https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png
 ---
 

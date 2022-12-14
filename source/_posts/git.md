@@ -2,10 +2,10 @@
 title: git
 date: 2022-08-09 23:45:51
 tags:
-- frontend
+- Frontend
 - Tool
 categories:
-- [frontend, Tool]
+- [Frontend, Tool]
 thumbnail: https://git-scm.com/images/logo@2x.png
 ---
 

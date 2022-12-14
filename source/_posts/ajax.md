@@ -6,7 +6,7 @@ tags:
 - JavaScript
 - Network
 categories:
-- [Frontend, Network]
+- [Frontend, Other]
 thumbnail: https://th.bing.com/th/id/OIP.v3b022s2UAyhVAFLUtzhJgHaDj
 ---
 

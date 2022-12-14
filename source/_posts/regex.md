@@ -1,5 +1,5 @@
 ---
-title: regular expression
+title: regex
 date: 2022-12-14 20:28:35
 tags:
 - Frontend

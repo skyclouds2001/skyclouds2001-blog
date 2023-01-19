@@ -9,6 +9,11 @@ const fs = require('fs')
 const source = 'D:\\程序\\skyclouds2001-blog'
 const target = 'D:\\程序\\skyclouds2001.github.io'
 
+/**
+ * 删除文件夹
+ *
+ * @param src {string} 目标文件夹
+ */
 const deleteDir = (src) => {
   for (const v of fs.readdirSync(src)) {
     const s = path.resolve(src, v)
@@ -24,6 +29,12 @@ const deleteDir = (src) => {
   fs.rmdirSync(src)
 }
 
+/**
+ * 复制文件夹
+ *
+ * @param src {string} 源文件夹
+ * @param tar {string} 目标文件夹
+ */
 const copyDir = (src, tar) => {
   for (const v of fs.readdirSync(src)) {
     const s = path.resolve(src, v)
@@ -42,6 +53,9 @@ const copyDir = (src, tar) => {
   }
 }
 
+/**
+ * 主方法
+ */
 const main = () => {
   try {
     // check if node_modules exists

@@ -55,7 +55,7 @@ const main = () => {
 
     // remove files in target
     for (const v of fs.readdirSync(target)) {
-      if (!/.github|.git|LICENSE|README.md/.test(v)) {
+      if (!/.github|.git|.gitattributes|LICENSE|README.md/.test(v)) {
         const src = path.resolve(target, v)
         const stat = fs.statSync(src)
         if (stat.isFile()) {
